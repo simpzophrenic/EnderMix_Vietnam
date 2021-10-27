@@ -1,2 +1,2 @@
-# EnderMix_Vietnam
+# EnderMix Vietnam
 Còn sớm, chưa làm đâu brr =))
