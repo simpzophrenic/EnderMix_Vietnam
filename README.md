@@ -27,5 +27,3 @@ Examples: 1 or 1,2,3
     🔎 Play youtube playlists via search query
 
 @EnderMixVN playlist linkin park meteora
-
-( mai dịch sau lười =) )
