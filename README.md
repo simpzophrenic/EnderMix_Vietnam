@@ -1,6 +1,6 @@
 ## Cách dùng
 
-    🎶 Miusic từ link
+    🎶 Music từ link
 
 @EnderMixVN play https://www.youtube.com/watch?v=GLvohMXgcBo
 
